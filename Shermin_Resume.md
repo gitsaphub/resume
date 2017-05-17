@@ -1,5 +1,5 @@
 ## SHERMIN PILLAI
-**Sammamish, WA 98075 , Cell: +1253 306 9329, Email : shermin29@outlook.com**
+**Sammamish, WA 98075 , Cell: +1 253 306 9329, Email : shermin29@outlook.com**
 
 ## PROFESSIONAL SUMMARY
 * Experienced SAP ABAP Senior Developer committed to maintaining cutting edge
@@ -74,10 +74,34 @@ requests.
 - Participated in team activities and team planning in regards to improving team skills,
 awareness and quality of work.
 
-## Nike Inc. (Via Wipro) – Beaverton, Oregon
-**Senior SAP ABAP Consultant** (02/2009 to 12/2012)**Project Description**
- Nike Inc. is a major publicly traded sportswear and equipment supplierbased in United States. It is engaged in the design, development and worldwide marketing offootwear, apparel, equipment, and accessory products. The project involved SAP ABAPUpgrade, moving all the SAP ABAP development objects from 4.6c version to SAP ECC 6.0version and development of new requirements and enhancement of existing functionality inECC Environment. **Roles and Responsibilities**
-- Worked as an Apparel and Footwear System's Technical Lead for the Retail Team.- Coordinated with functional team for functional enhancements and application interfacedevelopment and delivery.- Proposed technical feasibility solutions for new functional designs, recommendedarchitectural improvements and suggested options for performance improvement oftechnical objects.- Worked in the upgrade team to carry out complete SAP R/3 Upgrade from 4.6C version toECC 6.0 version. - Provided Test plan preparation, Review of test plans, unit and integration testing.- Provided continued maintenance and development of bug fixes that occurred duringSystem Upgrade.- Created SAP OSS Messages and Support Tickets, as well as the Application of OSS Notes. 
+
+## Nike Inc. (Via Wipro) – Beaverton, Oregon
+**Senior SAP ABAP Consultant** (02/2009 to 12/2012)
+
+**Project Description**
+ Nike Inc. is a major publicly traded sportswear and equipment supplier
+based in United States. It is engaged in the design, development and worldwide marketing of
+footwear, apparel, equipment, and accessory products. The project involved SAP ABAP
+Upgrade, moving all the SAP ABAP development objects from 4.6c version to SAP ECC 6.0
+version and development of new requirements and enhancement of existing functionality in
+ECC Environment.
+ 
+**Roles and Responsibilities**
+
+- Worked as an Apparel and Footwear System's Technical Lead for the Retail Team.
+- Coordinated with functional team for functional enhancements and application interface
+development and delivery.
+- Proposed technical feasibility solutions for new functional designs, recommended
+architectural improvements and suggested options for performance improvement of
+technical objects.
+- Worked in the upgrade team to carry out complete SAP R/3 Upgrade from 4.6C version to
+ECC 6.0 version. 
+- Provided Test plan preparation, Review of test plans, unit and integration testing.
+- Provided continued maintenance and development of bug fixes that occurred during
+System Upgrade.
+- Created SAP OSS Messages and Support Tickets, as well as the Application of OSS Notes. 
+
+
 ## Weyerhaeuser Inc. (Via Wipro)  Federal Way, Washington
 **SAP ABAP Senior Consultant** (02/2008 to 02/2009)
 
@@ -109,9 +133,25 @@ deliverables.
 standards and best practices
 
 ## S.C Johnson (Via Wipro) – Racine, Wisconsin
-**SAP ABAP Senior Consultant** (11/2007 to 01/2008)**Project Description**
-S.C. Johnson is a global manufacturer of household cleaning supplies andother consumer chemicals based in Racine, Wisconsin. The purpose of this project was toprovide ABAP Production Support Service to the SCJ SAP Application Development Team.**Roles and Responsibilities**
-- Worked as a Technical Consultant for the Production Support team and was involved withthe offshore team (India) in solving issues more efficiently and quickly with the ProcessOwners of the client team.- Assisted in code reviews and testing so that all the support activities were carried outaccording to SAP and Client guidelines.- Participated in the Status Calls and Client Meetings and kept track of all the Work Ordersand ensured that each task was delivered with top quality and in estimated time frame. - Provided continued maintenance, performance maintenance and development of bug fixes.Consistently met deadlines and requirements for all production work orders.
+**SAP ABAP Senior Consultant** (11/2007 to 01/2008)
+
+**Project Description**
+S.C. Johnson is a global manufacturer of household cleaning supplies and
+other consumer chemicals based in Racine, Wisconsin. The purpose of this project was to
+provide ABAP Production Support Service to the SCJ SAP Application Development Team.
+
+**Roles and Responsibilities**
+
+- Worked as a Technical Consultant for the Production Support team and was involved with
+the offshore team (India) in solving issues more efficiently and quickly with the Process
+Owners of the client team.
+- Assisted in code reviews and testing so that all the support activities were carried out
+according to SAP and Client guidelines.
+- Participated in the Status Calls and Client Meetings and kept track of all the Work Orders
+and ensured that each task was delivered with top quality and in estimated time frame. 
+- Provided continued maintenance, performance maintenance and development of bug fixes.
+Consistently met deadlines and requirements for all production work orders.
+
 
 ## BMW (Via Accenture)  Munich, Germany
 **SAP ABAP Senior Developer** (08/2006 to 06/2007)
